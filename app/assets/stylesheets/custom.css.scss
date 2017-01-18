@@ -114,11 +114,15 @@ padding-left: 15px;
 
 .jumbotron {
 
+align: center;
+
 text-align: center;
 
-background-image: asset-url('meeting.png');
+background-image: asset-url('rsz_1download.jpg');
 
-background-size: cover;
+background-size: 120%;
+
+background-position: center;
 
 color: #fff;
 
